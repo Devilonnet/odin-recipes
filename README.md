@@ -1,4 +1,4 @@
-# odin-recepies
+# odin-recipes
 just some test html page form the odin project
 This is the first actual project that i will built with html.
 I think that the html part is gonna be just fine, because i have already mastered the basic foundation of html.
